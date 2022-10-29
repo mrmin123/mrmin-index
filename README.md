@@ -1,6 +1,6 @@
-## mch-index
+## mrmin-index
 
-Served on [minyoung.dev](https://minyoung.dev/) and [mrmin.dev](https://mrmin.dev/).
+Served on [mrmin.dev](https://mrmin.dev/) and [minyoung.dev](https://minyoung.dev/).
 
 Calculations for the magic numbers can be found in [MAGIC.md](MAGIC.md).
 
